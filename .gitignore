@@ -1,0 +1,28 @@
+.vscode/
+QGroundControl-x86_64.AppImage
+
+# Build artifacts
+build/
+install/
+log/
+logs/
+terrain/
+
+# Nested colcon/ROS workspaces
+**/build/
+**/install/
+**/log/
+
+# Telemetry and binary blobs
+*.tlog
+*.tlog.raw
+*.bin
+*.bag
+eeprom.bin
+mav.parm
+
+# Python/editor clutter
+__pycache__/
+*.pyc
+*.swp
+*.swo
