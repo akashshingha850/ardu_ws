@@ -2,7 +2,7 @@
 QGroundControl-x86_64.AppImage
 
 # External source trees (tracked elsewhere)
-Micro-XRCE-DDS-Gen/
+# Micro-XRCE-DDS-Gen/
 # src/
 
 # Build artifacts
